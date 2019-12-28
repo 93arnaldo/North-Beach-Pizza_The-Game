@@ -3,6 +3,7 @@
 This is a text adventure game based on a pizza restaurant. 
 
 The **objective** is to deliver the most amount of delicious pizzas to your customers in the least time.
+
 At the beginning of each round, a customer will ask you for a **new random pizza.** 
 
 In order to prepare it, you will have a **set of ingredients** in your kitchen to choose from. You are free to put whatever you want on the pizza, however, if you don't deliver the right pizza to the customer... well... expect that they will be very angry at you. 
